@@ -1,0 +1,17 @@
+body{
+    background-color: #FFEADB;
+}
+
+img{
+    width: 400px;
+    height: 400px;
+    border-radius: 10px;
+}
+
+h1{
+    margin-top: 15px;
+}
+
+#logButton{
+    background-color: #FF9A76;
+}

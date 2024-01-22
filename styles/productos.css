@@ -1,0 +1,31 @@
+.productos{
+    height: fit-content;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.producto{
+    background-color: aliceblue;
+    border-radius: 10px;
+    display: flex;
+    width: 209px;
+    height: 299px;
+    margin: 0px 20px 20px 20px;
+    transition: 0.3s;
+}
+
+.producto:hover{
+    transform: scale(1.05);
+}
+
+.row{
+    display: flex;
+}
+  
+.filtros {
+    width: 25%; /* El 25% del ancho total */
+}
+
+span{
+    color: #4a6249;
+}

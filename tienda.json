@@ -1,0 +1,52 @@
+{
+    "productos": [
+      {
+        "id": 1,
+        "name": "Café Americano",
+        "type": "Bebidas",
+        "stock": 50,
+        "price": 1900,
+        "img": "../img/cafeAmericano.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Capuchino",
+        "type": "Bebidas",
+        "stock": 30,
+        "price": 1800,
+        "img": "../img/capuchino.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Croissant",
+        "type": "Meriendas",
+        "stock": 20,
+        "price": 1500,
+        "img": "../img/croissant.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Galletas",
+        "type": "Meriendas",
+        "stock": 40,
+        "price": 1750,
+        "img": "../img/galletas.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Azúcar",
+        "type": "Otros",
+        "stock": 100,
+        "price": 500,
+        "img":"../img/terronesazucar.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Leche",
+        "type": "Otros",
+        "stock": 80,
+        "price": 700,
+        "img":"../img/leche.jpg"
+      }
+    ]
+  }
